@@ -1,0 +1,42 @@
+/* ul > li > a.hover:link {
+  color: #00adb5;
+}
+
+ul > li > a.hover:visited {
+  color: grey;
+}
+
+ul > li > a.hover:hover {
+  color: #393e46;
+  text-decoration: none;
+} */
+
+/*********************************** Alternative Footer **********************************/
+
+footer > nav > a.hover:link {
+  color: #00adb5;
+}
+
+footer > nav > a.hover:visited {
+  color: grey;
+}
+
+footer > nav > a.hover:hover {
+  color: #393e46;
+  text-decoration: none;
+}
+
+/************************************* line height ***********************/
+
+.lineheight {
+  line-height: 1.1;
+}
+
+/************************************ List Layout *****************************************/
+
+.listlayout {
+  text-align: left;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
